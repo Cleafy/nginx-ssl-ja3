@@ -155,6 +155,15 @@ and write the captured data on redis.
 
 Currently we use an off-the-shelf redis gui to present the data, I am considering the idea to develop an ad-hoc interface.
 
+
+## Contributors
+
+@**fooinha**  - author
+
+@**Sessa93**
+
+@**bartebor**
+
 ## Fair Warning
 
 **THIS IS NOT PRODUCTION** ready.
